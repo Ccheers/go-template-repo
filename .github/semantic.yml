@@ -1,0 +1,19 @@
+titleOnly: true
+commitOnly: false
+titleAndCommits: false
+scopes:
+  - cmd
+  - internal
+types:
+  - deps
+  - feat
+  - fix
+  - docs
+  - style
+  - refactor
+  - perf
+  - test
+  - build
+  - ci
+  - chore
+  - revert
